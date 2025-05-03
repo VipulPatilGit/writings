@@ -6,4 +6,4 @@ third
  
 forth
 
-final fifth line!!
+final fifth line.
