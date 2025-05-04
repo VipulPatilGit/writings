@@ -6,6 +6,6 @@ third, special conflict.
  
 forth
 
-final fifth line. This is it. I mean it.
+final fifth line. on the main branch.
 
 I am in the middle of working on this file.
